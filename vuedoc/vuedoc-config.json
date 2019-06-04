@@ -1,0 +1,5 @@
+{
+  "componentsPath": "../sample-ts/src/components/**/*.vue",
+  "storePath": "../sample-ts/src/store/module/*.js",
+  "storeIgnorePath": []
+}
